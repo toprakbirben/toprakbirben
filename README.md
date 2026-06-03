@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Toprak Birben
 ======================================================================================================================================
 
-Full Stack Developer
+Software Engineer
 --------------------
 
-Software developer obsessed with the space between "it works" and "it feels right."
+Software Engineer obsessed with the space between "it works" and "it feels right."
 
 I build systems other developers want to extend and interfaces users never have to think about. My stack is React / PHP / Python / PostgreSQL — my process starts with understanding the problem before ever writing any lines of code.
 
